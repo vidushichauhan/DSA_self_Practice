@@ -18,7 +18,7 @@ public class BasicStructure {
         head.next = temp1;
         temp1.next = temp2;
         Node start = head;
-        while(start.next!=null){
+        while(start!=null){
             System.out.println(start.num);
             start = start.next;
         }
