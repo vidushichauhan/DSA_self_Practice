@@ -13,8 +13,6 @@ class Node{
 }
 
 
-// This is for inserting the data in begin of linked list
-
 public class InsertAtBegin {
     public static Node insertAtBegining(int x, Node head){
 
